@@ -1,0 +1,50 @@
+/*selector{
+	property: value;
+}*/
+h2{
+	color: red;
+}
+body{
+	background-image: url(BACK.jpg);
+	background-size: cover;
+}
+h2 p{
+	color: #FE9100;
+	text-align: left;
+	font-style: italic;
+	cursor: text;
+	background-color: rgba(0,0,255,0.4);
+}
+p{
+	color: red;
+	font-size: 26px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Anton', sans-serif;
+	border: solid purple;
+	
+}
+li{
+	display: inline-block;
+}
+.webtext{
+	border: 5px dashed 50CC00;
+
+}
+.active{
+	border:5px dashed rgba(31.4, 80, 0);
+}
+#div1{
+	background: rgba(0, 0, 255, 0.2);
+	text-align: right;
+}
+ul{
+	font-size: 20px;
+}
+li{
+	color: red;
+}
+img{
+	float: left;
+
+}
